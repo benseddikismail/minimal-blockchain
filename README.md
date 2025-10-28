@@ -1,9 +1,7 @@
 # 🧱 Simple Blockchain in Java
 
 A **minimal blockchain implementation in Java**, built to demonstrate the core concepts of cryptocurrency systems, including block structure, hashing, proof-of-work mining, digital signatures, transactions, and UTXO-based balances.
-As an *educational prototype, it focuses on clarity and conceptual accuracy to illustrate how decentralized ledgers maintain security, integrity, and immutability through cryptography and consensus mechanisms.
-
----
+As an educational prototype, it focuses on clarity and conceptual accuracy to illustrate how decentralized ledgers maintain security, integrity, and immutability through cryptography and consensus mechanisms.
 
 ## 🚀 Features
 
@@ -15,8 +13,6 @@ As an *educational prototype, it focuses on clarity and conceptual accuracy to i
 - 🪙 **Wallet system** with public/private key pairs
 - 🧾 **Balance tracking** and fund transfers between wallets
 - 🧠 **Blockchain validation** to detect tampering
-
----
 
 ## 🧠 How It Works
 
